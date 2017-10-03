@@ -5,11 +5,11 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Nicole Moran
+title:            'Nicole Moran'
 tagline:          'Web Developer'
 description:      'Pay no attention to the coder behind the curtain.'
 url:              http://nicolemoran.github.io
-baseurl:          
+baseurl:          /
 
 author:
   name:           'Nicole Moran'
