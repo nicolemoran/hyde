@@ -7,5 +7,5 @@ title: Welcome
 # Countries of Europe
 ## AngularJS, JQuery, JSON
 <p>Descriptive text.</p>
-<a>View live project</a>
-<a href="https://github.com/nicolemoran/countries_of_europe">View code</>
+<p><a>View live project</a></p>
+<p><a href="https://github.com/nicolemoran/countries_of_europe">View code</a></p>
