@@ -1,0 +1,63 @@
+<div class="search">
+	<h3>Quiz</h3>
+</div>
+<div class="artistinfo">
+	<!--This div will display how many questions you got right after you check your answers.-->
+	<div id="results"></div>
+
+	<!--Quiz form-->
+	<form name="quiz" id="quiz">
+			<div id="q1" class="question">What is the capital of Belgium?</div>
+			<input type="radio" name="q1" value="a">Brussels<br>
+			<input type="radio" name="q1" value="b">Sarajevo<br>
+			<input type="radio" name="q1" value="c">Paris<br>
+			<input type="radio" name="q1" value="d">Prague<br>
+		
+			<div id="q2" class="question">Which of these countries is the biggest in area?</div>
+			<input type="radio" name="q2" value="a">Netherlands<br>
+			<input type="radio" name="q2" value="b">Cyprus<br>
+			<input type="radio" name="q2" value="c">Germany<br>
+			<input type="radio" name="q2" value="d">Sweden<br>
+		
+			<div id="q3" class="question">Which of the following countries does NOT use the Euro?</div>
+			<input type="radio" name="q3" value="a">Slovakia<br>
+			<input type="radio" name="q3" value="b">Montenegro<br>
+			<input type="radio" name="q3" value="c">Latvia<br>
+			<input type="radio" name="q3" value="d">Iceland<br>
+
+			<div id="q4" class="question">Which flag is this?</div>
+			<img src="images/hun_flag.png" alt="Hungary Flag" ng-src="images/hun_flag.png" alt="Hungary Flag"/><br>
+			<input type="radio" name="q4" value="a">Ireland<br>
+			<input type="radio" name="q4" value="b">Italy<br>
+			<input type="radio" name="q4" value="c">Russia<br>
+			<input type="radio" name="q4" value="d">Hungary<br>
+		
+			<div id="q5" class="question">What is the official language of Monaco?</div>
+			<input type="radio" name="q5" value="a">English<br>
+			<input type="radio" name="q5" value="b">Monacoan<br>
+			<input type="radio" name="q5" value="c">French<br>
+			<input type="radio" name="q5" value="d">German<br>
+		
+			<div id="q6" class="question">Which of these countries has the smallest population?</div>
+			<input type="radio" name="q6" value="a">Italy<br>
+			<input type="radio" name="q6" value="b">Liechtenstein<br>
+			<input type="radio" name="q6" value="c">Greece<br>
+			<input type="radio" name="q6" value="d">Estonia<br>
+		
+			<div id="q7" class="question">Which flag is this?</div>
+			<img src="images/swi_flag.png" alt="Switzerland Flag" ng-src="images/swi_flag.png" alt="Switzerland Flag"/><br>
+			<input type="radio" name="q7" value="a">Switzerland<br>
+			<input type="radio" name="q7" value="b">Sweden<br>
+			<input type="radio" name="q7" value="c">Romania<br>
+			<input type="radio" name="q7" value="d">Latvia<br>
+		
+			<div id="q8" class="question">What is the capital of Portugal?</div>
+			<input type="radio" name="q8" value="a">Vaduz<br>
+			<input type="radio" name="q8" value="b">Madrid<br>
+			<input type="radio" name="q8" value="c">Lisbon<br>
+			<input type="radio" name="q8" value="d">Portugal City<br>
+	</form>	
+
+	<!--Submit button. Calls a function in script.js (which for some reason didn't want to be named "quiz()").-->
+	<button id="submitbutton" class="btn btn-default" type="button" onclick="validatequiz()">Check your answers</button>
+</div>
