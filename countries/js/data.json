@@ -1,0 +1,452 @@
+{ "countries" :
+		[{
+			"name" : "Albania",
+			"shortname" : "alb",
+			"capital" : "Tirana",
+			"population" : "3,040,000",
+			"language" : ["Albanian"],
+			"government" : "Unitary Parlimentary Constitutional Republic",
+			"currency" : "Lek",
+			"size" : 35
+		},
+		{
+			"name" : "Andorra",
+			"shortname" : "and",
+			"capital" : "Andorra la Vella",
+			"population" : "90,000",
+			"language" : ["Catalan"],
+			"government" : "Unitary Parlimentary Semi-Elective Diarchy",
+			"currency" : "Euro",
+			"size" : 43
+		},
+		{
+			"name" : "Austria",
+			"shortname" : "aus",
+			"capital" : "Vienna",
+			"population" : "8,730,000",
+			"language" : ["German"],
+			"government" : "Federal Parliamentary Republic",
+			"currency" : "Euro",
+			"size" : 20
+		},
+		{
+			"name" : "Azerbaijan",
+			"shortname" : "aze",
+			"capital" : "Baku",
+			"population" : "9,750,000",
+			"language" : ["Azerbaijani"],
+			"government" : "Unitary Dominant-Party Semi-Presidential Republic",
+			"currency" : "Manat",
+			"size" : 41
+		},
+		{
+			"name" : "Belarus",
+			"shortname" : "bla",
+			"capital" : "Minsk",
+			"population" : "9,500,000",
+			"language" : ["Belarusian", "Russian"],
+			"government" : "Unitary Presidential Constitutional Republic",
+			"currency" : "Belarusian Ruble",
+			"size" : 13
+		},
+		{
+			"name" : "Belgium",
+			"shortname" : "blg",
+			"capital" : "Brussels",
+			"population" : "11,250,000",
+			"language" : ["Dutch", "French", "German"],
+			"government" : "Federal Parliamentary Constitutional Monarchy",
+			"currency" : "Euro",
+			"size" : 34
+		},
+		{
+			"name" : "Bosnia and Herzegovina",
+			"shortname" : "bos",
+			"capital" : "Sarajevo",
+			"population" : "3,530,000",
+			"language" : ["Bosnian", "Croatian", "Serbian"],
+			"government" : "Federal Parliamentary Republic",
+			"currency" : "Convertible Mark",
+			"size" : 27
+		},
+		{
+			"name" : "Bulgaria",
+			"shortname" : "bul",
+			"capital" : "Sofia",
+			"population" : "7,200,000",
+			"language" : ["Bulgarian"],
+			"government" : "Unitary Parliamentary Republic",
+			"currency" : "Lev",
+			"size" : 16
+		},
+		{
+			"name" : "Croatia",
+			"shortname" : "cro",
+			"capital" : "Zagreb",
+			"population" : "4,190,000",
+			"language" : ["Croatian"],
+			"government" : "Unitary Parliamentary Constitutional Republic",
+			"currency" : "Kuna",
+			"size" : 26
+		},
+		{
+			"name" : "Czech Republic",
+			"shortname" : "cze",
+			"capital" : "Prague",
+			"population" : "10,550,000",
+			"language" : ["Czech"],
+			"government" : "Unitary Parliamentary Constitutional Republic",
+			"currency" : "Czech Koruna",
+			"size" : 21
+		},
+		{
+			"name" : "Denmark",
+			"shortname" : "den",
+			"capital" : "Copenhagen",
+			"population" : 5750000,
+			"language" : ["Danish", "German"],
+			"government" : "Unitary Parliamentary Constitutional Monarchy",
+			"currency" : "Danish Krone",
+			"size" : 30
+		},
+		{
+			"name" : "Estonia",
+			"shortname" : "est",
+			"capital" : "Tallinn",
+			"population" : 1320000,
+			"language" : ["Estonian"],
+			"government" : "Parliamentary Republic",
+			"currency" : "Euro",
+			"size" : 29
+		},
+		{
+			"name" : "Finland",
+			"shortname" : "fin",
+			"capital" : "Helsinki",
+			"population" : 5490000,
+			"language" : ["Finnish", "Swedish"],
+			"government" : "Unitary Parliamentary Republic",
+			"currency" : "Euro",
+			"size" : 8
+		},
+		{
+			"name" : "France",
+			"shortname" : "fra",
+			"capital" : "Paris",
+			"population" : 66990000,
+			"language" : ["French"],
+			"government" : "Unitary Semi-Presidential Republic",
+			"currency" : "Euro",
+			"size" : 3
+		},
+		{
+			"name" : "Germany",
+			"shortname" : "ger",
+			"capital" : "Berlin",
+			"population" : 82180000,
+			"language" : ["German"],
+			"government" : "Federal Parliamentary Republic",
+			"currency" : "Euro",
+			"size" : 7
+		},
+		{
+			"name" : "Greece",
+			"shortname" : "gre",
+			"capital" : "Athens",
+			"population" : 11000000,
+			"language" : ["Greek"],
+			"government" : "Unitary Parliamentary Constitutional Republic",
+			"currency" : "Euro",
+			"size" : 15
+		},
+		{
+			"name" : "Hungary",
+			"shortname" : "hun",
+			"capital" : "Budapest",
+			"population" : 9830000,
+			"language" : ["Hungarian"],
+			"government" : "Unitary Parliamentary Constitutional Republic",
+			"currency" : "Forint",
+			"size" : 18
+		},
+		{
+			"name" : "Iceland",
+			"shortname" : "ice",
+			"capital" : "Reykjavik",
+			"population" : 330000,
+			"language" : ["Icelandic"],
+			"government" : "Unitary Parliamentary Republic",
+			"currency" : "Icelandic Krona",
+			"size" : 17
+		},
+		{
+			"name" : "Ireland",
+			"shortname" : "ire",
+			"capital" : "Dublin",
+			"population" : 4760000,
+			"language" : ["Gaelic", "English"],
+			"government" : "Unitary Parliamentary Republic",
+			"currency" : "Euro",
+			"size" : 23
+		},
+		{
+			"name" : "Italy",
+			"shortname" : "ita",
+			"capital" : "Rome",
+			"population" : 60670000,
+			"language" : ["Italian"],
+			"government" : "Unitary Parliamentary Republic",
+			"currency" : "Euro",
+			"size" : 10
+		},
+		{
+			"name" : "Kosovo",
+			"shortname" : "kos",
+			"capital" : "Pristina",
+			"population" : 1860000,
+			"language" : ["Albanian", "Serbian"],
+			"government" : "Parliamentary Republic",
+			"currency" : "Euro",
+			"size" : 40
+		},
+		{
+			"name" : "Latvia",
+			"shortname" : "lat",
+			"capital" : "Riga",
+			"population" : 1950000,
+			"language" : ["Latvian"],
+			"government" : "Parliamentary Republic",
+			"currency" : "Euro",
+			"size" : 25
+		},
+		{
+			"name" : "Liechtenstein",
+			"shortname" : "lie",
+			"capital" : "Vaduz",
+			"population" : 40000,
+			"language" : ["German"],
+			"government" : "Unitary Parliamentary Constitutional Monarchy",
+			"currency" : "Swiss Franc",
+			"size" : 45
+		},
+		{
+			"name" : "Lithuania",
+			"shortname" : "lit",
+			"capital" : "Vilnius",
+			"population" : 2840000,
+			"language" : ["Lithuanian"],
+			"government" : "Unitary Semi-Presidential Republic",
+			"currency" : "Euro",
+			"size" : 24
+		},
+		{
+			"name" : "Luxembourg",
+			"shortname" : "lux",
+			"capital" : "Luxembourg City",
+			"population" : 580000,
+			"language" : ["French", "German", "Luxembourgish"],
+			"government" : "Unitary Parliamentary Constitutional Monarchy",
+			"currency" : "Euro",
+			"size" : 42
+		},
+		{
+			"name" : "Macedonia",
+			"shortname" : "mac",
+			"capital" : "Skopje",
+			"population" : 2070000,
+			"language" : ["Macedonian"],
+			"government" : "Parliamentary Republic",
+			"currency" : "Macedonian Denar",
+			"size" : 36
+		},
+		{
+			"name" : "Malta",
+			"shortname" : "mal",
+			"capital" : "Valletta",
+			"population" : 450000,
+			"language" : ["Maltese", "English", "Maltese Sign Language"],
+			"government" : "Unitary Parliamentary Republic",
+			"currency" : "Euro",
+			"size" : 44
+		},
+		{
+			"name" : "Moldova",
+			"shortname" : "mol",
+			"capital" : "Chisinau",
+			"population" : 2910000,
+			"language" : ["Romanian"],
+			"government" : "Unitary Parliamentary Republic",
+			"currency" : "Leu",
+			"size" : 33
+		},
+		{
+			"name" : "Monaco",
+			"shortname" : "mnc",
+			"capital" : "Monaco-Ville",
+			"population" : 40000,
+			"language" : ["French"],
+			"government" : "Unitary Parliamentary Constitutional Monarchy",
+			"currency" : "Euro",
+			"size" : 47
+		},
+		{
+			"name" : "Montenegro",
+			"shortname" : "mnt",
+			"capital" : "Podgorcia",
+			"population" : 620000,
+			"language" : ["Montenegrin"],
+			"government" : "Parliamentary Republic",
+			"currency" : "Euro",
+			"size" : 39
+		},
+		{
+			"name" : "Netherlands",
+			"shortname" : "net",
+			"capital" : "Amsterdam",
+			"population" : 17100000,
+			"language" : ["Dutch", "Frisian", "English", "Papiamento"],
+			"government" : "Unitary Parliamentary Constitutional Monarchy",
+			"currency" : "Euro",
+			"size" : 32
+		},
+		{
+			"name" : "Norway",
+			"shortname" : "nor",
+			"capital" : "Oslo",
+			"population" : 5250000,
+			"language" : ["Norwegian", "Sami"],
+			"government" : "Unitary Parliamentary Constitutional Monarchy",
+			"currency" : "Norwegian Krone",
+			"size" : 6
+		},
+		{
+			"name" : "Romania",
+			"shortname" : "rom",
+			"capital" : "Bucharest",
+			"population" : 19510000,
+			"language" : ["Romanian"],
+			"government" : "Unitary Semi-Presidential Republic",
+			"currency" : "Romanian Leu",
+			"size" : 12
+		},
+		{
+			"name" : "Russia",
+			"shortname" : "rus",
+			"capital" : "Moscow",
+			"population" : 144560000,
+			"language" : ["Russian"],
+			"government" : "Federal Semi-Presidential Constitutional Republic",
+			"currency" : "Russian Ruble",
+			"size" : 1
+		},
+		{
+			"name" : "San Marino",
+			"shortname" : "san",
+			"capital" : "City of San Marino",
+			"population" : 30000,
+			"language" : ["Italian"],
+			"government" : "Unitary Parliamentary Directorial Republic",
+			"currency" : "Euro",
+			"size" : 46
+		},
+		{
+			"name" : "Serbia",
+			"shortname" : "ser",
+			"capital" : "Belgrade",
+			"population" : 7040000,
+			"language" : ["Serbian"],
+			"government" : "Unitary Parliamentary Constitutional Republic",
+			"currency" : "Serbian Dinar",
+			"size" : 22
+		},
+		{
+			"name" : "Slovakia",
+			"shortname" : "vak",
+			"capital" : "Bratislava",
+			"population" : 5430000,
+			"language" : ["Slovak"],
+			"government" : "Parliamentary Republic",
+			"currency" : "Euro",
+			"size" : 28
+		},
+		{
+			"name" : "Slovenia",
+			"shortname" : "ven",
+			"capital" : "Ljubljana",
+			"population" : 2060000,
+			"language" : ["Slovene"],
+			"government" : "Unitary Parliamentary Constitutional Republic",
+			"currency" : "Euro",
+			"size" : 38
+		},
+		{
+			"name" : "Spain",
+			"shortname" : "",
+			"capital" : "",
+			"population" : "",
+			"language" : [],
+			"government" : "",
+			"currency" : "",
+			"size" : 4
+		},
+		{
+			"name" : "Sweden",
+			"shortname" : "",
+			"capital" : "",
+			"population" : "",
+			"language" : [],
+			"government" : "",
+			"currency" : "",
+			"size" : 5
+		},
+		{
+			"name" : "Switzerland",
+			"shortname" : "",
+			"capital" : "",
+			"population" : "",
+			"language" : [],
+			"government" : "",
+			"currency" : "",
+			"size" : 31
+		},
+		{
+			"name" : "Turkey",
+			"shortname" : "",
+			"capital" : "",
+			"population" : "",
+			"language" : [],
+			"government" : "",
+			"currency" : "",
+			"size" : 37
+		},
+		{
+			"name" : "Ukraine",
+			"shortname" : "",
+			"capital" : "",
+			"population" : "",
+			"language" : [],
+			"government" : "",
+			"currency" : "",
+			"size" : 2
+		},
+		{
+			"name" : "United Kingdom",
+			"shortname" : "",
+			"capital" : "",
+			"population" : "",
+			"language" : [],
+			"government" : "",
+			"currency" : "",
+			"size" : 11
+		},
+		{
+			"name" : "Vatican City",
+			"shortname" : "",
+			"capital" : "",
+			"population" : "",
+			"language" : [],
+			"government" : "",
+			"currency" : "",
+			"size" : 48
+		}
+]}
