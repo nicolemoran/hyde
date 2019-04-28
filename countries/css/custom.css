@@ -1,0 +1,119 @@
+body {
+	background-color:#85d4e6;
+	/*See style.css where I commented out his gradient background.*/
+}
+
+/*Styling for menu bar at top (search and quiz options, "Countries of Europe" heading)*/
+.menu {
+	background-color:#2b8196;
+	margin:auto;
+	width:50%;
+	max-width:500px;
+}
+.menu a {
+	padding:10px;
+	color:#ffffff;
+	text-decoration:none;
+}
+.menu h1 {
+	color:#ffffff;
+	padding:10px;
+	padding-bottom:20px;
+	margin:0;
+}
+
+/*Styling for search box and filter options*/
+.search {
+	background-color:#2b8196;
+	color:#ffffff;
+	border-radius:0px;
+	margin-top:0px;
+	padding-left:10px;
+	padding-top:10px;
+}
+.search h1 {
+	color:#ffffff;
+}
+.search h3 {
+	color:#ffc790;
+	font-size:1.5em;
+}
+.search input {
+	background-color:#ffffff;
+	margin-bottom:10px;
+}
+.search select {
+	background-color:#ffffff;
+	color:#000000;
+}
+.search label.formgroup {
+	font-family: 'Bree Serif', serif;
+	color:#ffc790;
+}
+.info h2 {
+	color:#2b8196;
+}
+.info h3 {
+	color:#a96c31;
+}
+
+/*Styling for list of countries and detail page*/
+.artistlist {
+	background-color:#ffffff;
+	max-width:500px;
+}
+
+.artistinfo {
+	background-color:#ffffff;
+	max-width:500px;
+	border-radius:0px;
+	margin-bottom:0;
+	margin-top:0;
+}
+.artistinfo img {
+	border-radius:0px;
+}
+.artistinfo a {
+	color:#2b8196;
+}
+.detail_info {
+	width:30%;
+	float:left;
+	margin-top:25px;
+}
+.detail_info h1 {
+	margin-bottom:10px;
+	color:#2b8196;
+}
+.detail_info img {
+	width:100%;
+}
+.bio {
+	width:65%;
+	float:right;
+	margin-top:25px;
+}
+.bio h3 {
+	color:#a96c31;
+}
+
+/*Styling for quiz page*/
+.question {
+	margin-top:20px;
+}
+.btn {
+	background-color:#2b8196;
+	color:#ffffff;
+}
+.btn:hover {
+	background-color:#85d4e6;
+}
+#submitbutton {
+	margin-top:20px;
+}
+.right {
+	background-color:green;
+}
+.wrong {
+	background-color:red;
+}
