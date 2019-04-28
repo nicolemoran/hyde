@@ -1,0 +1,17 @@
+<section class="artistinfo">
+	<div class="artist cf" ng-model="artist">
+	<a href="#/details/{{prevItem}}" class="btn btn-left">&lt;</a>
+	<a href="#/details/{{nextItem}}" class="btn btn-left">&gt;</a>
+		<h1>{{countries[whichItem].name}}</h1>
+		<div class="info">
+			<h3>Capital: {{countries[whichItem].capital}}</h3>
+			<h3>Population: {{countries[whichItem].capital}}</h3>
+			<h3>Official Language(s): {{countries[whichItem].language}}</h3>
+			<h3>Government: {{countries[whichItem].government}}</h3>
+			<h3>Currency: {{countries[whichItem].currency}}</h3>
+			<h3>Size Ranking: {{countries[whichItem].size}}</h3>
+			<img ng-src="images/{{countries[whichItem].shortname}}_flag.jpg" alt="{{countries[whichItem].name}} Flag"/>
+		</div>
+	</div>
+	<a href="/#list">$laquo; Back to search</a>
+</section>
