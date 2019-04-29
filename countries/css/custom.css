@@ -96,6 +96,9 @@ body {
 .bio h3 {
 	color:#a96c31;
 }
+.btn.btn-left, .btn.btn-right {
+	color:white;
+}
 
 /*Styling for quiz page*/
 .question {
