@@ -63,6 +63,10 @@ body {
 	max-width:500px;
 }
 
+.artistlist li:hover {
+	background-color:#ffffff;
+}
+
 .artistinfo {
 	background-color:#ffffff;
 	max-width:500px;
