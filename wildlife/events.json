@@ -1,0 +1,16 @@
+[
+  {
+    "title":"event1",
+    "start":"2017-04-09",
+    "editable":true,
+    "backgroundColor":"green",
+    "description":"This is a green event."
+  },
+  {
+    "title":"event2",
+    "start":"2017-04-10",
+    "editable":true,
+    "backgroundColor":"red",
+    "description":"This is a red event."
+  }
+]
