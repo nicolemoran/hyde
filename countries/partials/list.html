@@ -21,7 +21,7 @@
     </label>
    
   </div>
-  <ul class="artistlist" ng-show="query">
+  <ul class="artistlist">
     <li ng-animate="'animate'" class="artist cf" ng-repeat="item in countries | filter: query | orderBy: countryOrder:direction">
       <a href="#/details/{{countries.indexOf(item)}}">
         <img ng-src="images/{{countries.shortname}}_flag.png" alt="{{item.name}} Flag">
