@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Welcome
+title: Countries of Europe
 ---
 
 
-# Countries of Europe
 ## AngularJS, JQuery, JSON
 <img src="_includes/images/portfolio1.jpg">
 <p>Descriptive text.</p>
