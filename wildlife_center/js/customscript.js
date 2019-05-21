@@ -56,10 +56,10 @@ function clock() {
 
 //Changes the class of the navigation tabs as they're clicked on
 $(document).ready(function() {
-	$("#tab_stuff").load("profiletab.php");
+	$("#tab_stuff").load("profiletab.html");
 
 	$("#button1").click(function() {
-		$("#tab_stuff").load("profiletab.php");
+		$("#tab_stuff").load("profiletab.html");
 
 		$("#button1").addClass("active");
 		$("#button2").removeClass("active");
@@ -70,7 +70,7 @@ $(document).ready(function() {
 	});
 
     $("#button2").click(function() {
-        $("#tab_stuff").load("team.php");
+        $("#tab_stuff").load("team.html");
 
         $("#button1").removeClass("active");
         $("#button2").addClass("active");
@@ -81,7 +81,7 @@ $(document).ready(function() {
     });
 
     $("#button3").click(function() {
-        $("#tab_stuff").load("hours.php");
+        $("#tab_stuff").load("hours.html");
 
         $("#button1").removeClass("active");
         $("#button2").removeClass("active");
@@ -93,7 +93,7 @@ $(document).ready(function() {
 
     $("#button4").click(function() {
         console.log('working');
-        $("#tab_stuff").load("documents.php");
+        $("#tab_stuff").load("documents.html");
 
         $("#button1").removeClass("active");
         $("#button2").removeClass("active");
@@ -116,7 +116,7 @@ $(document).ready(function() {
     });*/
     $("#button6").click(function() {
         console.log('working');
-        $("#tab_stuff").load("changePassword.php");
+        $("#tab_stuff").load("changePassword.html");
 
         $("#button1").removeClass("active");
         $("#button2").removeClass("active");
