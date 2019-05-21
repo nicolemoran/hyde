@@ -53,7 +53,7 @@ include("loginheader.php");
     <!--First column-->
     <div class="col-sm-8">
         <div>
-            <p>Shift Status (Clocked In/Clocked Out):  <span class='profResult'><?php if($newPerson->getClocked() == 1) { echo "Clocked In"; } else { echo "Clocked Out"; } ?></span></p>
+            <p>Shift Status (Clocked In/Clocked Out):  <span class='profResult'><!--<?php if($newPerson->getClocked() == 1) { echo "Clocked In"; } else { echo "Clocked Out"; } ?>--></span></p>
             <!--COMMENTING OUT THE PHP-->
 
             <!--
@@ -80,14 +80,14 @@ include("loginheader.php");
             ?>
             -->
             
-            <p>Last Shift:  <span class='profResult'><?php
+            <p>Last Shift:  <span class='profResult'><!--<?php
                 if($newPerson->getLastOutDate() != '') { echo $newPerson->getLastOutDate() . " | " . $newPerson->getLastOutTime();
-                } else { echo "No shifts worked to date"; } ?></span></p>
-            <p>Total YTD Hours:  <span class='profResult'><?php echo $totalHours; ?></span></p>
-            <p>Total YTD Miles:  <span class='profResult'><?php echo $totalMiles; ?></span></p>
-            <p>Rabies Vaccinated:  <span class='profResult'><?php if($newPerson->getRabiesShot() == 1) { echo "Completed on " . $newPerson->getRabiesDate(); } else { echo "No"; } ?></span></p>
-            <P>Rehabilitation Permit:  <span class='profResult'><?php if($newPerson->getRehabilitationPermit() == 1) { echo $newPerson->getPermitType(); } else { echo "No"; } ?></span></P>
-            <p>Carpentry Skills:  <span class='profResult'><?php if($newPerson->getCarpentrySkills() == 1) { echo "Yes"; } else { echo "No"; } ?></span></p>
+                } else { echo "No shifts worked to date"; } ?>--></span></p>
+            <p>Total YTD Hours:  <span class='profResult'><!--<?php echo $totalHours; ?>--></span></p>
+            <p>Total YTD Miles:  <span class='profResult'><!--<?php echo $totalMiles; ?>--></span></p>
+            <p>Rabies Vaccinated:  <span class='profResult'><!--<?php if($newPerson->getRabiesShot() == 1) { echo "Completed on " . $newPerson->getRabiesDate(); } else { echo "No"; } ?>--></span></p>
+            <P>Rehabilitation Permit:  <span class='profResult'><!--<?php if($newPerson->getRehabilitationPermit() == 1) { echo $newPerson->getPermitType(); } else { echo "No"; } ?>--></span></P>
+            <p>Carpentry Skills:  <span class='profResult'><!--<?php if($newPerson->getCarpentrySkills() == 1) { echo "Yes"; } else { echo "No"; } ?>--></span></p>
         </div>
     </div>
 </div><!--End column-->
