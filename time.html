@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Time Tracking App</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="time.css">
+	<script src="time.js"></script>
+
+</head>
+<body>
+
+<div id="appContainer">
+
+	<h1>Time Tracking App</h1>
+	<p>Keep track of how you spend your day so you can be more productive!</p>
+
+	<div id="buttonDiv">
+		<button id="button1" onclick="startTimer(1)" class="button pink">Sleeping</button> <span id="hours1"></span>:<span id="minutes1"></span>:<span id="seconds1"></span><br>
+
+		<button id="button0" onclick="startTimer(0)" class="button yellow">Traveling</button> <span id="hours0"></span>:<span id="minutes0"></span>:<span id="seconds0"></span><br>
+
+		<button id="button2" onclick="startTimer(2)" class="button green">Working</button> <span id="hours2"></span>:<span id="minutes2"></span>:<span id="seconds2"></span><br>
+
+		<button id="button3" onclick="startTimer(3)" class="button blue">Social Media</button> <span id="hours3"></span>:<span id="minutes3"></span>:<span id="seconds3"></span><br>
+	</div>
+
+	<input id="add" type="text" name="">
+	<button onclick="addTracker()" class="button">Add Tracker</button><br>
+
+	<button onclick="clearTimers()" class="button">Stop Timers</button>
+</div>
+
+</body>
+</html>
