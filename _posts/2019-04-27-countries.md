@@ -5,7 +5,6 @@ title: Countries of Europe
 
 
 ## AngularJS, JQuery, JSON
-<img src="../_includes/images/portfolio1.JPG">
 <img src="../portfolio1.JPG">
 <p>Descriptive text.</p>
 <p><a href="nicolemoran.github.io/countries/index.html">View live project</a></p>
