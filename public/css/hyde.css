@@ -254,3 +254,9 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+
+/*Customization*/
+.post-heading {
+  margin-bottom: 1rem;
+}
