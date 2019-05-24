@@ -4,7 +4,7 @@ title: Countries of Europe
 ---
 
 
-## AngularJS, JQuery, JSON
+### AngularJS, JQuery, JSON
 <img src="../portfolio1.JPG">
 <p><a href="nicolemoran.github.io/countries/index.html" target="_blank">View live project</a></p>
 <p><a href="https://github.com/nicolemoran/countries_of_europe" target="_blank">View code</a></p>
