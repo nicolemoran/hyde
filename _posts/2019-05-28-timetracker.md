@@ -4,7 +4,7 @@ title: Time Tracker App
 ---
 
 
-## JQuery
+### JQuery
 <img src="../portfolio3.jpg">
 <p><a href="nicolemoran.github.io/timetracker/time.html" target="_blank">View live project</a></p>
 <p><a href="https://github.com/nicolemoran/timetracker" target="_blank">View code</a></p>
