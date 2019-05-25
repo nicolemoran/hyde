@@ -15,7 +15,7 @@ title: About Me
 <ul>
   <li>I'm a big-picture thinker.</li>
   <li>I like things clean and minimal, both in code and in life.</li>
-  <li>I pick up new skills quickly, especially coding languages and frameworks.</li>
+  <li>I relish a good challenge, and pick up new skills quickly.</li>
 </ul>
 
 <p>Let's chat! Send me an email at ncmartist@gmail.com.</p>
