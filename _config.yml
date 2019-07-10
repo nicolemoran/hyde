@@ -9,7 +9,7 @@ title:            Nicole Moran
 tagline:          'Web Developer'
 description:      'ncmartist@gmail.com'
 url:              https://nicolemoran.github.io
-baseurl:          /about
+baseurl:          /
 
 author:
   name:           'Nicole Moran'
