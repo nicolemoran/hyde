@@ -13,7 +13,7 @@ title: About Me
 </ul>
 <p>A few facts about me and how I work:</p>
 <ul>
-  <li>I'm a big-picture thinker.</li>
+  <li>I'm a big-picture thinker with an eye for important details.</li>
   <li>I like things clean and minimal, both in code and in life.</li>
   <li>I relish a good challenge, and pick up new skills quickly.</li>
 </ul>
